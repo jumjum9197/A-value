@@ -3,6 +3,10 @@
   height: 200px;
   width: 100%;
 }
+.mylo{
+  margin-left: 132px;
+width: 16%;
+}
 .icon{
     width: 40px;
     height: 40px;
@@ -13,6 +17,37 @@
     border: purple solid 3px;
     border-radius: 60%;
     
+
+}
+
+.signin{
+  border: white solid 2px;
+background-color: white;
+width: 100px;
+color :black;
+margin-left: 20px;
+}
+.mycolou{
+  color: white !important;
+  margin-left: 20px;
+}
+.mycolour{
+  color: white !important;
+  margin-left: 290px;
+}
+.margins{
+  margin-left: 105px;
+font-size: 21px;
+color: purple !important;
+
+}
+.promoba{
+background-image: url("/myvalue/asset/img/promo-banner.jpg");
+background-repeat: no-repeat;
+height: 100vh;
+background-size: contain;
+width: 100%;
+margin-top: 114px;
 
 }
 .rectangle{
@@ -328,7 +363,7 @@ margin-left: -22px;
 }
 .foot{
   background-color: rgb(128, 123, 123);
-
+height: 100px;
 }
 .my-2{
   list-style: none;
@@ -457,7 +492,9 @@ text-transform: capitalize;
 
 </div>  */
 @media(min-width:100px) and (max-width:480px){
-  
+  .promoba{
+    margin-bottom: -1006px;
+  }
 .image{
   background-image: url("../img/promo-banner.jpg");
   height: 450px;
@@ -741,6 +778,11 @@ border-bottom-right-radius: 0px;
 background-image: url(../img/special-request.jpeg);
 height: 200px;
 }
+.mylo {
+  margin-left: 32px;
+  width: 25%;
+}
+
 .bbb{
 background-color: black;
 border: solid 1px black;
