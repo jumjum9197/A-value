@@ -44,7 +44,7 @@ color: purple !important;
 .promoba{
 background-image: url("/myvalue/asset/img/promo-banner.jpg");
 background-repeat: no-repeat;
-height: 100vh;
+/* height: 100vh; */
 background-size: contain;
 width: 100%;
 
@@ -991,7 +991,7 @@ section{
   overflow: hidden;
 }
 .hey{
-  height: 250px !important;
+  height: 150px !important;
 }
 .rec1{
   width: 131px;
