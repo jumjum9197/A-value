@@ -47,7 +47,7 @@ background-repeat: no-repeat;
 height: 100vh;
 background-size: contain;
 width: 100%;
-margin-top: 114px;
+
 
 }
 .rectangle{
@@ -494,7 +494,7 @@ text-transform: capitalize;
 @media(min-width:100px) and (max-width:480px){
   .promoba{
     margin-bottom: -1006px;
-    margin-top: 166px;
+
 
   }
 .image{
