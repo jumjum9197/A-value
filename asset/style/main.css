@@ -494,6 +494,8 @@ text-transform: capitalize;
 @media(min-width:100px) and (max-width:480px){
   .promoba{
     margin-bottom: -1006px;
+    margin-top: 166px;
+
   }
 .image{
   background-image: url("../img/promo-banner.jpg");
